@@ -7,7 +7,8 @@
       },
       "includePath": [
         "/opt/ros/melodic/include/**",
-        "/usr/include/**"
+        "/usr/include/**",
+        "/home/saite/miki_code/rosbag_pcd/src/obstacle_detection/include/**"
       ],
       "name": "ROS",
       "intelliSenseMode": "gcc-x64",
